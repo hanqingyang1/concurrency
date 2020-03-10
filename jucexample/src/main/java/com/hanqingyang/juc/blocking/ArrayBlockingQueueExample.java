@@ -1,5 +1,7 @@
 package com.hanqingyang.juc.blocking;
 
+import java.util.concurrent.ArrayBlockingQueue;
+
 /**
  * @ClassName ArrayBlockingQueueExample
  * @Author 韩清阳
@@ -13,4 +15,7 @@ public class ArrayBlockingQueueExample {
     }
 
 
+    public <T>ArrayBlockingQueue<T> create(int size){
+        return new ArrayBlockingQueue<>(size);
+    }
 }

@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e877b2e-e011-4d1f-b63c-dbc1668a4ec8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExample.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/sharing/target/" />
+    <ignored path="$PROJECT_DIR$/design_pattern/target/" />
+    <ignored path="$PROJECT_DIR$/classLoader/target/" />
+    <ignored path="$PROJECT_DIR$/jucexample/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CompletableFuture.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/concurrent/CompletableFuture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="2121" column="36" selection-start-line="2121" selection-start-column="36" selection-end-line="2121" selection-end-column="36" />
+              <folding>
+                <element signature="e#69562#69563#0" expanded="true" />
+                <element signature="e#69619#69620#0" expanded="true" />
+                <element signature="e#75214#75215#0" expanded="true" />
+                <element signature="e#75265#75266#0" expanded="true" />
+                <element signature="e#84041#84042#0" expanded="true" />
+                <element signature="e#84095#84096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompleableFutureExample5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompleableFutureExample5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayBlockingQueueExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompletableFutureExample1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2178">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Executors.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/concurrent/Executors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="169" column="34" selection-start-line="169" selection-start-column="34" selection-end-line="169" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompletableFutureExample2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompletableFutureExample3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompletableFutureExample4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="203" lean-forward="true" selection-start-line="203" selection-end-line="217" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompletableFutureExample5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayBlockingQueueExampleTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jucexample/src/test/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExampleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AtomicIntegerArray</find>
+      <find>ExecutorService</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/jucAtomic/UnsafeFooTest.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/CountDownLatchExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/CountDownLatchExample2.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/CountDownLatchExample3.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/CyclicBarrierExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/CyclicBarrierExample2.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/exchanger/ExchangerExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/exchanger/ExchangerExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample2.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample3.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample4.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/locks/ReadWirteLockExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/ConditionExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ConditionExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ConditionExampleByQueu.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ConditionExampleByQueue.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/BlockingQueue.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ArrayBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ArrayBlockingQueueExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/CondtionExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ComBetweenThread.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ConditionExample2.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/StampedLock/StampedLockExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/StampedLock/SteampedLockExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/forkjoin/ForkJoinRecursiveTask.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/phaser/PhaserExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ThreadPoolExecutorBuild.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ThreadPoolExecutorTask.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorsExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorExample2.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample3.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample4.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample5.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/BlockingQueue2.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/future/FutureExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/schedule/ScheduleExecutorServiceExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompleteableFutureExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompletableFutureExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompletableFutureExample3.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompletableFutureExample4.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompleableFutureExample5.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/blocking/ArrayBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample1.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample2.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample3.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample4.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample5.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExample.java" />
+        <option value="$PROJECT_DIR$/jucexample/src/test/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExampleTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sharing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sharing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1380" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hanqingyang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hanqingyang" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hanqingyang" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="blocking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hanqingyang" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="completableFuture2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency1" type="462c0819:PsiDirectoryNode" />
+              <item name="jucexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="java-concurrency1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hanqingyang.juc.blocking" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hanqingyang.concurrency.chapter9" />
+      <recent name="com.hanqingyang.concurrency.chapter7" />
+      <recent name="com.hanqingyang.concurrency.chapter6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\java-concurrency1\design_pattern\src\main\java\com\hanqingyang\concurrent\chapter4" />
+      <recent name="D:\workspace\java-concurrency1\sharing\src\main\java\com\hanqingyang\concurrency\chapter7" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CompletableFutureExample4 (1)">
+    <configuration name="CompleableFutureExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hanqingyang.juc.completeableFuture.CompleableFutureExample5" />
+      <module name="jucexample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hanqingyang.juc.completeableFuture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CompletableFutureExample1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hanqingyang.juc.completableFuture2.CompletableFutureExample1" />
+      <module name="jucexample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hanqingyang.juc.completableFuture2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CompletableFutureExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hanqingyang.juc.completableFuture2.CompletableFutureExample2" />
+      <module name="jucexample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hanqingyang.juc.completableFuture2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CompletableFutureExample3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hanqingyang.juc.completableFuture2.CompletableFutureExample3" />
+      <module name="jucexample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hanqingyang.juc.completableFuture2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CompletableFutureExample4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hanqingyang.juc.completableFuture2.CompletableFutureExample4" />
+      <module name="jucexample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hanqingyang.juc.completableFuture2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CompleableFutureExample5" />
+      <item itemvalue="Application.CompletableFutureExample1 (1)" />
+      <item itemvalue="Application.CompletableFutureExample2" />
+      <item itemvalue="Application.CompletableFutureExample3 (1)" />
+      <item itemvalue="Application.CompletableFutureExample4 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompletableFutureExample4 (1)" />
+        <item itemvalue="Application.CompletableFutureExample3 (1)" />
+        <item itemvalue="Application.CompletableFutureExample2" />
+        <item itemvalue="Application.CompletableFutureExample1 (1)" />
+        <item itemvalue="Application.CompleableFutureExample5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e877b2e-e011-4d1f-b63c-dbc1668a4ec8" name="Default" comment="" />
+      <created>1567658280430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567658280430</updated>
+      <workItem from="1567658284141" duration="793000" />
+      <workItem from="1567678273733" duration="10667000" />
+      <workItem from="1567839507589" duration="7099000" />
+      <workItem from="1568026518847" duration="23989000" />
+      <workItem from="1568595554811" duration="9654000" />
+      <workItem from="1568777344402" duration="5178000" />
+      <workItem from="1568958271997" duration="1192000" />
+      <workItem from="1569200431759" duration="1338000" />
+      <workItem from="1569394003645" duration="1358000" />
+      <workItem from="1569567722077" duration="594000" />
+      <workItem from="1569719569540" duration="909000" />
+      <workItem from="1570497086950" duration="636000" />
+      <workItem from="1570670932537" duration="13013000" />
+      <workItem from="1570845761806" duration="594000" />
+      <workItem from="1571016897507" duration="2379000" />
+      <workItem from="1571192069790" duration="590000" />
+      <workItem from="1571368913293" duration="590000" />
+      <workItem from="1571620236518" duration="2402000" />
+      <workItem from="1571793472394" duration="2484000" />
+      <workItem from="1571966432750" duration="5400000" />
+      <workItem from="1572225084594" duration="4844000" />
+      <workItem from="1572400298714" duration="18462000" />
+      <workItem from="1572577470034" duration="575000" />
+      <workItem from="1572829398339" duration="4134000" />
+      <workItem from="1572925242239" duration="1850000" />
+      <workItem from="1573105928571" duration="2559000" />
+      <workItem from="1573606409459" duration="2076000" />
+      <workItem from="1573609324240" duration="8454000" />
+      <workItem from="1573779455519" duration="4316000" />
+      <workItem from="1574039907217" duration="6005000" />
+      <workItem from="1574214398121" duration="6085000" />
+      <workItem from="1574643922024" duration="1952000" />
+      <workItem from="1574819246604" duration="5300000" />
+      <workItem from="1575334032740" duration="1483000" />
+      <workItem from="1575419402072" duration="1796000" />
+      <workItem from="1575439681245" duration="10075000" />
+      <workItem from="1575507295325" duration="2539000" />
+      <workItem from="1575876423754" duration="13464000" />
+      <workItem from="1576028794828" duration="114000" />
+      <workItem from="1576029384947" duration="7453000" />
+      <workItem from="1576203607796" duration="1209000" />
+      <workItem from="1576458335439" duration="6694000" />
+      <workItem from="1576633761316" duration="1379000" />
+      <workItem from="1576821307103" duration="596000" />
+      <workItem from="1577063120877" duration="584000" />
+      <workItem from="1577238718672" duration="588000" />
+      <workItem from="1577413107256" duration="592000" />
+      <workItem from="1577668080286" duration="3002000" />
+      <workItem from="1577927218712" duration="686000" />
+      <workItem from="1578272546896" duration="8201000" />
+      <workItem from="1578446723964" duration="6485000" />
+      <workItem from="1578620010562" duration="16411000" />
+      <workItem from="1578877007142" duration="15064000" />
+      <workItem from="1578907100005" duration="33783000" />
+      <workItem from="1579135270957" duration="21237000" />
+      <workItem from="1583729858144" duration="29396000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化上传">
+      <created>1583730804418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583730804418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AtomicBooleanTest_testCreateWithOutArguments1 - 2019.12.04 at 14h 32m 27s.xml">
+      <configuration name="AtomicBooleanTest.testCreateWithOutArguments1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtomicBooleanTest_testCreateWithOutArguments1 - 2019.12.04 at 14h 33m 06s.xml">
+      <configuration name="AtomicBooleanTest.testCreateWithOutArguments1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtomicBooleanTest_testGetAndSet - 2019.12.04 at 14h 36m 27s.xml">
+      <configuration name="AtomicBooleanTest.testGetAndSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtomicBooleanTest_testCompareAndSet - 2019.12.04 at 14h 45m 00s.xml">
+      <configuration name="AtomicBooleanTest.testCompareAndSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtomicBooleanTest_testCompareAndSet - 2019.12.04 at 14h 45m 56s.xml">
+      <configuration name="AtomicBooleanTest.testCompareAndSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtomicIntegerArrayTest_testCreateAtomicIntegerArray - 2019.12.04 at 17h 07m 07s.xml">
+      <configuration name="AtomicIntegerArrayTest.testCreateAtomicIntegerArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaileAtomicIntegerFieldUpdaterTest_testPrivateFieldAccessError - 2019.12.05 at 09h 04m 56s.xml">
+      <configuration name="FaileAtomicIntegerFieldUpdaterTest.testPrivateFieldAccessError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaileAtomicIntegerFieldUpdaterTest_testPrivateFieldAccessError - 2019.12.05 at 09h 06m 05s.xml">
+      <configuration name="FaileAtomicIntegerFieldUpdaterTest.testPrivateFieldAccessError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaileAtomicIntegerFieldUpdaterTest_testObjectIsNull - 2019.12.05 at 09h 11m 38s.xml">
+      <configuration name="FaileAtomicIntegerFieldUpdaterTest.testObjectIsNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaileAtomicIntegerFieldUpdaterTest_testObjectIsNull - 2019.12.05 at 09h 11m 58s.xml">
+      <configuration name="FaileAtomicIntegerFieldUpdaterTest.testObjectIsNull" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="340302000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32867134" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28846154" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298969" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48557693" visible="true" weight="0.20075758" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5144231" side_tool="true" weight="0.2730711" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986014" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28522336" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48798078" visible="true" weight="0.2655068" />
+      <window_info id="Structure" order="1" sideWeight="0.5120192" side_tool="true" weight="0.22163388" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3298969" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化上传" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharing/src/main/java/com/hanqingyang/concurrency/chapter6/ThreadService.java</url>
+          <line>17</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharing/src/main/java/com/hanqingyang/concurrency/chapter6/ThreadService.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharing/src/main/java/com/hanqingyang/concurrency/chapter6/ThreadService.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharing/src/main/java/com/hanqingyang/concurrency/chapter6/ThreadService.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sharing/src/main/java/com/hanqingyang/concurrency/chapter6/ThreadCloseGraceful3.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/locks/ReadWirteLockExample.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/exchanger/ExchangerExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/exchanger/ExchangerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7904">
+          <caret line="470" column="64" selection-start-line="470" selection-start-column="64" selection-end-line="470" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/semaphore/SemaphoreExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/locks/ReadWirteLockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ConditionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ConditionExampleByQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/CondtionExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.hanqingyang.juc.utils.condition.ConditionExample2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.hanqingyang.juc.utils.condition.ConditionExample2</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.hanqingyang.juc.utils.condition.ConditionExample2</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-165.0" y="99.0" />
+          <SelectedNodes>
+            <node>com.hanqingyang.juc.utils.condition.ConditionExample2</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ConditionExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ComBetweenThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/StampedLock/StampedLockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="68" column="63" selection-start-line="68" selection-start-column="63" selection-end-line="68" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/StampedLock/SteampedLockExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/forkjoin/ForkJoinRecursiveTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/CountDownLatchExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/phaser/PhaserExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37468">
+          <caret line="2050" column="15" selection-start-line="2050" selection-start-column="15" selection-end-line="2050" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ThreadPoolExecutorBuild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="53" column="48" selection-start-line="49" selection-start-column="7" selection-end-line="53" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11894">
+          <caret line="668" column="39" selection-start-line="668" selection-start-column="39" selection-end-line="668" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ThreadPoolExecutorTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorsExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/executor/ExecutorServiceExample5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/ArrayBlockingQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/utils/condition/BlockingQueue2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/future/FutureExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/schedule/ScheduleExecutorServiceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompletableFutureExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="136" column="5" selection-start-line="34" selection-start-column="3" selection-end-line="136" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompletableFutureExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompleteableFutureExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="83" selection-start-line="83" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompletableFutureExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="85" column="5" selection-start-line="79" selection-start-column="3" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completeableFuture/CompleableFutureExample5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="169" column="34" selection-start-line="169" selection-start-column="34" selection-end-line="169" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_172/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="2121" column="36" selection-start-line="2121" selection-start-column="36" selection-end-line="2121" selection-end-column="36" />
+          <folding>
+            <element signature="e#69562#69563#0" expanded="true" />
+            <element signature="e#69619#69620#0" expanded="true" />
+            <element signature="e#75214#75215#0" expanded="true" />
+            <element signature="e#75265#75266#0" expanded="true" />
+            <element signature="e#84041#84042#0" expanded="true" />
+            <element signature="e#84095#84096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="203" lean-forward="true" selection-start-line="203" selection-end-line="217" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/completableFuture2/CompletableFutureExample5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/main/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucexample/src/test/java/com/hanqingyang/juc/blocking/ArrayBlockingQueueExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-concurrency1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
